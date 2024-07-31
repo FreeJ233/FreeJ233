@@ -1,0 +1,146 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://onedrive.live.com/embed?resid=A344462C95649814%217250&authkey=%21AN8lYbtnrlymkVs&width=1279&height=1706",
+        "hidden": false,
+        "shape": "square"
+    },
+    "profile": {
+        "name": "卢锦爵 Jack Lu",
+        "email": "vleadcnc@gmail.com",
+        "mobile": "18620131322",
+        "github": "",
+        "zhihu": "",
+        "workExpYear": "12年",
+        "workPlace": "佛山",
+        "positionTitle": "外贸销售 外贸经理"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2009.09.01",
+                "2012.06.30"
+            ],
+            "school": "广东海洋大学",
+            "major": "通信技术"
+        }
+    ],
+    "awardList": [
+
+    ],
+    "workExpList": [
+        {
+            "company_name": "广州民路乐器有限公司",
+            "department_name": "外贸经理",
+            "work_time": [
+                "2019.09",
+                ""
+            ],
+            "work_desc": "1. 负责公司产品的市场宣传\n2. 负责外贸团队的搭建、管理与协调，负责公司销售目标的制定与实施\n3. 负责公司新老客户的开发与维护，包括客户电话、邮件及询盘处理，商务谈判，签订合同，售后维护等\n4. 负责公司Alibaba平台的维护与产品推广\n5. 负责搭建、维护与推广公司B2C平台如TUME, eBay等",
+            "dataIndex": 0
+        },
+        {
+            "company_name": "广州酷蓝电子有限公司",
+            "department_name": "外贸经理",
+            "work_time": [
+                "2017.05",
+                "2019.8"
+            ],
+            "work_desc": "1. 主要负责搭建与维护Facebook，Ins，youtube等社交平台和视频平台的公司账号，建立公司品牌知名度\n2. 为公司从零搭建外贸销售环境与组建销售团队\n3. 负责搭建公司独立站，同时建立B2B与B2C的销售渠道，增加公司品牌影响力",
+            "dataIndex": 1
+        },
+        {
+            "work_time": [
+                "2016.08",
+                "2017.04"
+            ],
+            "company_name": "深圳市绿翔科技有限公司",
+            "department_name": "外贸经理",
+            "work_desc": "1. 负责公司Alibaba与MadeInChina等B2B平台的日常维护与产品推广\n2. 负责搭建公司Linkedin主页以及维护\n3. 负责公司香港展会的定展布展等",
+            "dataIndex": 2
+        },
+        {
+            "work_time": [
+                "2012.02",
+                "2016.05"
+            ],
+            "company_name": "广州三华塑料有限公司",
+            "department_name": "外贸业务 - 外贸经理",
+            "work_desc": "1. 负责客户开发维护以及与货代公司联系，确定运费，计算产品报价\n2. 负责各种出口单据的制作与填制以及对出口流程的风险控制\n3. 负责广交会，上海展，法兰展会的预定、布展、客户邀约等\n4. 负责大客户接待，谈判，验厂，签约等",
+            "dataIndex": 3
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "",
+            "skill_level": 100,
+            "skill_desc": "丰富的客户开发经验,如谷歌、海关数据、展会、社媒、b2b平台等；",
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "",
+            "skill_level": 100,
+            "skill_desc": "大客户成交经验丰富，包括客户接待，验厂等；",
+            "dataIndex": 1
+        },
+        {
+            "skill_name": "",
+            "skill_level": 100,
+            "skill_desc": "熟练操作excel word等办公软件；",
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "",
+            "skill_level": 80,
+            "skill_desc": "熟悉国外社媒平台如Facebook, Linkedin的操作；",
+            "dataIndex": 3
+        },
+        {
+            "skill_name": "",
+            "skill_level": 80,
+            "skill_desc": "熟悉Alibaba等B2B平台搭建，维护与产品推广流程；",
+            "dataIndex": 4
+        },
+        {
+            "skill_name": "",
+            "skill_level": 80,
+            "skill_desc": "熟练搭建独立站及推广。",
+            "dataIndex": 5
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "大客户成交经验",
+            "project_role": "可视分析负责人",
+            "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
+            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+            "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作，同时服务蚂蚁内部所有使用 G2 栈的用户，提供可视化解决方案和定制可视化的协助。"
+            "dataIndex": 0
+        },
+        {
+            "project_name": "G2、G2Plot",
+            "project_role": "核心开发者",
+            "project_time": "2019 - 至今",
+            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+            "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作，同时服务蚂蚁内部所有使用 G2 栈的用户，提供可视化解决方案和定制可视化的协助。"
+        }
+    ],
+    "workList": [
+
+    ],
+    "aboutme": {
+        "aboutme_desc": "    毕业后一直从事外贸行业，积累了相关经验，能够独立胜任B2B,B2C贸易相关工作，具有团队管理经验。本人性格开朗、为人诚恳、乐观向上、做事细心，进取心强，拥有较强的组织能力和适应能力。语言表达能力较强、具有较强的分析和解决事情的能力。积极参加各项活动，注重自身素质的全面提升，不断进步。工作责任心强，耐心、细致，具备团队合作精神，能吃苦耐劳，良好的英语沟通能力。"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
